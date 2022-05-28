@@ -8,7 +8,9 @@ Contact me by commenting here or via email : chris@savvy-analytics.com
 
 **Demo Project Pages**
 <br>
+[Animated Visualization of Inverted Yield Curves](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/InvertedYieldCurves.html)<br>
 [Enjoy More National Parks Using K Means](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/National-Parks-Maps-and-Value.html) <br>
+[Granger Causation Analysis of CPI and Minimum Wage](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/MinWagevsCPI.html)<br>
 [K Means vs DBScan Clustering](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/ClusteringDemo.html)
 <br>
 [NFL Survivor Pool Using Linear Optimization](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/NFL-Survivor-Project.html)
