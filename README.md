@@ -11,10 +11,13 @@ Contact me by commenting here or via email : chris@savvy-analytics.com
 [Animated Visualization of Inverted Yield Curves](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/InvertedYieldCurves.html)<br>
 [Enjoy More National Parks Using K Means](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/National-Parks-Maps-and-Value.html) <br>
 [Granger Causation Analysis of CPI and Minimum Wage](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/MinWagevsCPI.html)<br>
+[Hiring Success Model - Using Machine Learning](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/Hiring-Model-Hidden-Predictors.html)<br>
 [K Means vs DBScan Clustering](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/ClusteringDemo.html)
 <br>
+[NBA Points Gained Shooting 3's - Using Web Scraping](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/NBAPointsGained.html)<br>
 [NFL Survivor Pool Using Linear Optimization](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/NFL-Survivor-Project.html)
-<br><br>
+<br>
+[PDF Data Scraping - Using PDFTools](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/PDFDemoRPubs.html)<br>
 
 
 <!--
