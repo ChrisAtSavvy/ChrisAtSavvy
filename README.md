@@ -6,18 +6,20 @@ When I'm not using my analytics and finance skills at my full time job, I assist
 
 Contact me by commenting here or via email : chris@savvy-analytics.com
 
-**Demo Project Pages**
+**Demo R Project Pages**
 <br>
-[Animated Visualization of Inverted Yield Curves](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/InvertedYieldCurves.html)<br>
+Note : All of the source code, data and html files are in this [repo folder](https://github.com/ChrisAtSavvy/SavvyDemoProjects/tree/main/R) but most of the links below will take you to RPubs due to issues with githubs htmlpreview engine.
+<br>
+[Animated Visualization of Inverted Yield Curves](https://rpubs.com/SavvyAnalytics/invertedyieldcurves)<br>
 [Enjoy More National Parks Using K Means](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/National-Parks-Maps-and-Value.html) <br>
 [Granger Causation Analysis of CPI and Minimum Wage](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/MinWagevsCPI.html)<br>
-[Hiring Success Model - Using Machine Learning](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/Hiring-Model-Hidden-Predictors.html)<br>
-[K Means vs DBScan Clustering](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/ClusteringDemo.html)
+[Hiring Success Model - Using Machine Learning](https://rpubs.com/SavvyAnalytics/hiddenpredictors)<br>
+[K Means vs DBScan Clustering](https://rpubs.com/SavvyAnalytics/Clustering)
 <br>
-[NBA Points Gained Shooting 3's - Using Web Scraping](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/NBAPointsGained.html)<br>
-[NFL Survivor Pool Using Linear Optimization](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/NFL-Survivor-Project.html)
+[NBA Points Gained Shooting 3's - Using Web Scraping](https://rpubs.com/SavvyAnalytics/nbapointsgained)<br>
+[NFL Survivor Pool Using Linear Optimization](https://rpubs.com/SavvyAnalytics/NFLSurvivorProject)
 <br>
-[PDF Data Scraping - Using PDFTools](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/PDFDemoRPubs.html)<br>
+[PDF Data Scraping - Using PDFTools](https://rpubs.com/SavvyAnalytics/pdfdemo)<br>
 
 
 <!--
