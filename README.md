@@ -18,7 +18,7 @@ Note : All of the source code, data and html files are in this [repo folder](htt
 * [Excess Deaths 2020-2021 vs Trailing 5 Years](https://rpubs.com/SavvyAnalytics/ExcessDeaths)<br>
 * [Granger Causation Analysis of CPI and Minimum Wage](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/MinWagevsCPI.html)<br>
 * [Hiring Success Model - Using Machine Learning](https://rpubs.com/SavvyAnalytics/hiddenpredictors)<br>
-* [Inflation Rate Monitor {Continious Update}](https://rpubs.com/SavvyAnalytics/InflationMonitor)<br>
+* [Inflation Rate Monitor {Continuous Update}](https://rpubs.com/SavvyAnalytics/InflationMonitor)<br>
 * [K Means vs DBScan Clustering](https://rpubs.com/SavvyAnalytics/Clustering)<br>
 * [Monte Carlo Simulation of S&P 500 Returns](https://rpubs.com/SavvyAnalytics/montecarlo)<br>
 * [News Bias Analytics](https://rpubs.com/SavvyAnalytics/newsbias)<br>
@@ -26,7 +26,7 @@ Note : All of the source code, data and html files are in this [repo folder](htt
 * [NFL Survivor Pool Using Linear Optimization](https://rpubs.com/SavvyAnalytics/NFLSurvivorProject)<br>
 * [PDF Data Scraping - Using PDFTools](https://rpubs.com/SavvyAnalytics/pdfdemo)<br>
 * [PGA Tour Driving Distance - Does Distance Equal Success?](https://rpubs.com/SavvyAnalytics/PGATourDrivingDistance)<br>
-* [S&P 500 Peaks and Troughs Analysis {Continious Update}](https://rpubs.com/SavvyAnalytics/SP500PeaksvsTroughs)<br>
+* [S&P 500 Peaks and Troughs Analysis {Continuous Update}](https://rpubs.com/SavvyAnalytics/SP500PeaksvsTroughs)<br>
 
 <!--
 **ChrisAtSavvy/ChrisAtSavvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
