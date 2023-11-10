@@ -12,14 +12,16 @@ Note : All of the source code, data and html files are in this [repo folder](htt
 <br>
 
 * [Animated Visualization of Inverted Yield Curves](https://rpubs.com/SavvyAnalytics/invertedyieldcurves)<br>
-* [Excess Deaths 2020-2021 vs Trailing 5 Years](https://rpubs.com/SavvyAnalytics/ExcessDeaths)<br>
+* [Central Limit Theorem Simulations](https://rpubs.com/SavvyAnalytics/CentralLimitTheorem)<br>
+* [Diversified Portfolios versus the S&P 500](https://rpubs.com/SavvyAnalytics/PortfoliosVSSP500)<br>
 * [Enjoy More National Parks Using K Means](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/National-Parks-Maps-and-Value.html) <br>
+* [Excess Deaths 2020-2021 vs Trailing 5 Years](https://rpubs.com/SavvyAnalytics/ExcessDeaths)<br>
 * [Granger Causation Analysis of CPI and Minimum Wage](https://htmlpreview.github.io/?https://github.com/ChrisAtSavvy/SavvyDemoProjects/blob/main/R/MinWagevsCPI.html)<br>
 * [Hiring Success Model - Using Machine Learning](https://rpubs.com/SavvyAnalytics/hiddenpredictors)<br>
 * [Inflation Rate Monitor {Continious Update}](https://rpubs.com/SavvyAnalytics/InflationMonitor)<br>
 * [K Means vs DBScan Clustering](https://rpubs.com/SavvyAnalytics/Clustering)<br>
-* [News Bias Analytics](https://rpubs.com/SavvyAnalytics/newsbias)<br>
 * [Monte Carlo Simulation of S&P 500 Returns](https://rpubs.com/SavvyAnalytics/montecarlo)<br>
+* [News Bias Analytics](https://rpubs.com/SavvyAnalytics/newsbias)<br>
 * [NBA Points Gained Shooting 3's - Using Web Scraping](https://rpubs.com/SavvyAnalytics/nbapointsgained)<br>
 * [NFL Survivor Pool Using Linear Optimization](https://rpubs.com/SavvyAnalytics/NFLSurvivorProject)<br>
 * [PDF Data Scraping - Using PDFTools](https://rpubs.com/SavvyAnalytics/pdfdemo)<br>
