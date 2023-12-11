@@ -26,6 +26,7 @@ Note : All of the source code, data and html files are in this [repo folder](htt
 * [NFL Survivor Pool Using Linear Optimization](https://rpubs.com/SavvyAnalytics/NFLSurvivorProject)<br>
 * [PDF Data Scraping - Using PDFTools](https://rpubs.com/SavvyAnalytics/pdfdemo)<br>
 * [PGA Tour Driving Distance - Does Distance Equal Success?](https://rpubs.com/SavvyAnalytics/PGATourDrivingDistance)<br>
+* [Regression Metrics Visualized for Better Understanding](https://rpubs.com/SavvyAnalytics/RegressionMetricsVisualized)<br>
 * [S&P 500 Peaks and Troughs Analysis {Continuous Update}](https://rpubs.com/SavvyAnalytics/SP500PeaksvsTroughs)<br>
 
 <!--
